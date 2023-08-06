@@ -10,7 +10,7 @@ Back-End Development: <br>
 -Java <br>
 Spring Framweork <br>
 -Spring Boot <br>
--Sprong Security <br>
+-Spring Security <br>
 -Hibernate <br>
 Database: <br>
 MySql
